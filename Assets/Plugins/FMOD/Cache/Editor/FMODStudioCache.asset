@@ -1,0 +1,569 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8681380515569492454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/sfx/die cast
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/die cast
+  Guid:
+    Data1: 2098532058
+    Data2: 1228997722
+    Data3: -746666589
+    Data4: -686109706
+  Banks:
+  - {fileID: 5197370716820486000}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-8262954058416321297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/sfx/skeleton/death
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/skeleton/death
+  Guid:
+    Data1: -863391921
+    Data2: 1265641487
+    Data3: -560628064
+    Data4: -1020740149
+  Banks:
+  - {fileID: 5197370716820486000}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-7038121562345819410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/sfx/bringer of death/teleport
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/bringer of death/teleport
+  Guid:
+    Data1: -1519299414
+    Data2: 1199268344
+    Data3: -428790897
+    Data4: 63101458
+  Banks:
+  - {fileID: 5197370716820486000}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-2658356319384688665
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/sfx/items/pickup/gold
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/items/pickup/gold
+  Guid:
+    Data1: 1934058984
+    Data2: 1104700015
+    Data3: 180641680
+    Data4: 1861077062
+  Banks:
+  - {fileID: 5197370716820486000}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-2364395345873084257
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Devil Chest
+  m_EditorClassIdentifier: 
+  Path: event:/Devil Chest
+  Guid:
+    Data1: 173576111
+    Data2: 1201722258
+    Data3: 1165908119
+    Data4: -339199673
+  Banks:
+  - {fileID: 5197370716820486000}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-2346431001281281084
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/sfx/skeleton/knockback
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/skeleton/knockback
+  Guid:
+    Data1: -22971108
+    Data2: 1100494133
+    Data3: -966085992
+    Data4: 542185503
+  Banks:
+  - {fileID: 5197370716820486000}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-2091816590006904418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/sfx/player/death
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/player/death
+  Guid:
+    Data1: -724744383
+    Data2: 1088562427
+    Data3: 242050720
+    Data4: -210462579
+  Banks:
+  - {fileID: 5197370716820486000}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-1662491300351479109
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/sfx/bringer of death/magic
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/bringer of death/magic
+  Guid:
+    Data1: 494709435
+    Data2: 1093723308
+    Data3: -595109700
+    Data4: 786635850
+  Banks:
+  - {fileID: 5197370716820486000}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-352728820716908704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/sfx/bringer of death/lightning
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/bringer of death/lightning
+  Guid:
+    Data1: -314690508
+    Data2: 1268154336
+    Data3: -705692266
+    Data4: 611055094
+  Banks:
+  - {fileID: 5197370716820486000}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 105210831548971381}
+  - {fileID: 5197370716820486000}
+  EditorEvents:
+  - {fileID: 3013186353235591062}
+  - {fileID: 7622922680036490592}
+  - {fileID: -2364395345873084257}
+  - {fileID: -8262954058416321297}
+  - {fileID: -2091816590006904418}
+  - {fileID: 8934512439767732331}
+  - {fileID: -2346431001281281084}
+  - {fileID: 534546463373718842}
+  - {fileID: 3148057248260524100}
+  - {fileID: 7327081326671507907}
+  - {fileID: 3735778542735527818}
+  - {fileID: -2658356319384688665}
+  - {fileID: 9127974342828568512}
+  - {fileID: 4960130441476990365}
+  - {fileID: -7038121562345819410}
+  - {fileID: -352728820716908704}
+  - {fileID: -1662491300351479109}
+  - {fileID: -8681380515569492454}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: 5197370716820486000}
+  StringsBanks:
+  - {fileID: 105210831548971381}
+  cacheTime: 637943828633860576
+  cacheVersion: 131591
+--- !u!114 &105210831548971381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: FModProject/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 637943828633860576
+  FileSizes:
+  - Name: Desktop
+    Value: 1546
+  Exists: 1
+--- !u!114 &534546463373718842
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/sfx/bringer of death/death
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/bringer of death/death
+  Guid:
+    Data1: 1111992255
+    Data2: 1084743480
+    Data3: 317431226
+    Data4: 607318202
+  Banks:
+  - {fileID: 5197370716820486000}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3013186353235591062
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Fireball
+  m_EditorClassIdentifier: 
+  Path: event:/Fireball
+  Guid:
+    Data1: -2068993325
+    Data2: 1165068593
+    Data3: 582080157
+    Data4: 750475148
+  Banks:
+  - {fileID: 5197370716820486000}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3148057248260524100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/sfx/game over
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/game over
+  Guid:
+    Data1: -128784866
+    Data2: 1308794890
+    Data3: 2137458305
+    Data4: 1563870133
+  Banks:
+  - {fileID: 5197370716820486000}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3735778542735527818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/sfx/items/pickup/powerup
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/items/pickup/powerup
+  Guid:
+    Data1: -648715734
+    Data2: 1211695528
+    Data3: 1396000659
+    Data4: -1966110776
+  Banks:
+  - {fileID: 5197370716820486000}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &4960130441476990365
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/sfx/bringer of death/scythe
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/bringer of death/scythe
+  Guid:
+    Data1: -1025237465
+    Data2: 1203380175
+    Data3: 1511923101
+    Data4: -1895757972
+  Banks:
+  - {fileID: 5197370716820486000}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &5197370716820486000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: FModProject/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 637943828633850576
+  FileSizes:
+  - Name: Desktop
+    Value: 570368
+  Exists: 1
+--- !u!114 &7327081326671507907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/sfx/player/hurt
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/player/hurt
+  Guid:
+    Data1: -77572783
+    Data2: 1081060570
+    Data3: -2008829054
+    Data4: -1063714554
+  Banks:
+  - {fileID: 5197370716820486000}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &7622922680036490592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambient Music
+  m_EditorClassIdentifier: 
+  Path: event:/Ambient Music
+  Guid:
+    Data1: 1062495974
+    Data2: 1076387725
+    Data3: 1217768840
+    Data4: 392908031
+  Banks:
+  - {fileID: 5197370716820486000}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 28901
+--- !u!114 &8934512439767732331
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/sfx/die roll
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/die roll
+  Guid:
+    Data1: 899812962
+    Data2: 1297369220
+    Data3: 889602698
+    Data4: -1172004044
+  Banks:
+  - {fileID: 5197370716820486000}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &9127974342828568512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/sfx/items/pickup/potion
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/items/pickup/potion
+  Guid:
+    Data1: 1763268852
+    Data2: 1283379031
+    Data3: 2104638855
+    Data4: -631256662
+  Banks:
+  - {fileID: 5197370716820486000}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
